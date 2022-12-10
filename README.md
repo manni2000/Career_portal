@@ -1,4 +1,6 @@
 # Career_portal
+<br><b> All topmost company's career portal link is here! Do check out!!</b><br>
+<br>-FAANG </br>
 <table>
   <tr>
     <th>Company</th>
