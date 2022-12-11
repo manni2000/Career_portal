@@ -7,6 +7,10 @@
     <th>Portal_link</th>
   </tr>
   <tr>
+    <td>Accenture</th>
+    <td><a href="https://indiacampus.accenture.com/myzone/accenture/1/jobs">Click link!</a></th>
+  </tr>
+  <tr>
     <td>Accolite</td>
     <td><a href="https://lnkd.in/dDN5PWQk">Click link!</a></td>
   </tr>
