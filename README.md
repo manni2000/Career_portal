@@ -253,7 +253,7 @@ This repo is open to contribution and modifications,<br>
 - Create Pull Request.<br><br>
 
 
-<b>Star this Repository and you can visit to my profile and see some more like this!.<b>
+<b>Star this Repository and you can visit to my profile and see some more like this!<b>
 
 
 	   
