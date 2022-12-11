@@ -139,64 +139,103 @@
      <td><a href="https://lnkd.in/dnCVuQzD">Click link!</a></td>
   </tr>
    <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>MAQ Software</td>
+     <td><a href="https://lnkd.in/d2dkHExY">Click link!</a></td>
   </tr>
    <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>McAfee</td>
+     <td><a href="https://lnkd.in/d7vST4g6">Click link!</a></td>
   </tr>
    <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Media.net</td>
+     <td><a href="https://lnkd.in/dfti6QZ8">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Microsoft</td>
+     <td><a href="https://lnkd.in/dKt2drwp">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Morgan Sanley</td>
+     <td><a href="https://lnkd.in/d53kRcp3">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>MyGate</td>
+     <td><a href="https://lnkd.in/d5pTjwxs">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Nagarro</td>
+     <td><a href="https://lnkd.in/dRyQ_rkk">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Optum</td>
+     <td><a href="https://lnkd.in/dvxb_7ds">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Oracle</td>
+     <td><a href="https://lnkd.in/dDDbnZMu">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>PWC</td>
+     <td><a href="https://lnkd.in/d4b8DTft">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>PhonePe</td>
+     <td><a href="https://lnkd.in/dtTZzhXn">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Publicis Sapient</td>
+     <td><a href="https://lnkd.in/d6G3tHUF">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Rakuten</td>
+     <td><a href="https://lnkd.in/dRuSSrq2">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Razorpay</td>
+     <td><a href="https://lnkd.in/dveHTU3p">Click link!</a></td>
   </tr>
   <tr>
-    <td></td>
-     <td><a href="">Click link!</a></td>
+    <td>Revature</td>
+     <td><a href="https://lnkd.in/dtJkkrBp">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>SAP</td>
+     <td><a href="https://lnkd.in/dDVKcPST">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>Samsung</td>
+     <td><a href="https://lnkd.in/d5gUrDxq">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>Seimens</td>
+     <td><a href="https://lnkd.in/df4czTeb">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>TCS</td>
+     <td><a href="https://lnkd.in/dJpHXdvv">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>Twilio</td>
+     <td><a href="https://lnkd.in/dskmG6eT">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>Virtusa</td>
+     <td><a href="https://lnkd.in/dHJwPXiG">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>Vmware</td>
+     <td><a href="https://lnkd.in/d7zgbhXk">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>Wipro</td>
+     <td><a href="https://lnkd.in/d89txDcp">Click link!</a></td>
+  </tr>
+  <tr>
+    <td>Yellow.ai</td>
+     <td><a href="https://lnkd.in/dUPgitVf">Click link!</a></td>
+  </tr>
+   <td>Zoho</td>
+     <td><a href="https://lnkd.in/dUw9Qi4B">Click link!</a></td>
   </tr>
 </table>
 
@@ -210,28 +249,27 @@
 	
 	
 	
-MAQ Software	https://lnkd.in/d2dkHExY
-McAfee	https://lnkd.in/d7vST4g6
-Media.net	https://lnkd.in/dfti6QZ8
-Microsoft	https://lnkd.in/dKt2drwp
-Morgan Sanley	https://lnkd.in/d53kRcp3
-MyGate	https://lnkd.in/d5pTjwxs
-Nagarro	https://lnkd.in/dRyQ_rkk
-Optum	https://lnkd.in/dvxb_7ds
-Oracle	https://lnkd.in/dDDbnZMu
-PWC	https://lnkd.in/d4b8DTft
-PhonePe	https://lnkd.in/dtTZzhXn
-Publicis Sapient	https://lnkd.in/d6G3tHUF
-Rakuten	https://lnkd.in/dRuSSrq2
-Razorpay	https://lnkd.in/dveHTU3p
-Revature	https://lnkd.in/dtJkkrBp
-SAP	https://lnkd.in/dDVKcPST
-Samsung	https://lnkd.in/d5gUrDxq
-Seimens	https://lnkd.in/df4czTeb
-TCS	https://lnkd.in/dJpHXdvv
-Twilio	https://lnkd.in/dskmG6eT
-Virtusa	https://lnkd.in/dHJwPXiG
-Vmware	https://lnkd.in/d7zgbhXk
-Wipro	https://lnkd.in/d89txDcp
-Yellow.ai	https://lnkd.in/dUPgitVf
-Zoho	https://lnkd.in/dUw9Qi4B
+	
+	
+	
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
