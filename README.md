@@ -1,6 +1,7 @@
 # Career_portal
 <br><b> All topmost company's career portal link is here! Do check out!!</b><br>
-<br> All company are arranged in alphabet order!!</br>
+<br><b> At this current time, there are soo many job portals & it's difficult to find relevant Jobs & roles. Here on this GitHub page, I'm trying to collect some top company career portal links, So that you can directly apply without any headache.<b><br> Thank you!<br>
+<br> All company are arranged in alphabetic order!!</br>
 <table>
   <tr>
     <th>Company</th>
@@ -243,13 +244,14 @@
   </tr>
 </table>
 
+
 <br><br> <h1>📝 Contribute<br></h1>
 This repo is open to contribution and modifications,<br>
 - Star this Repo.<br>
 - Fork this repo.<br>
 - Clone repo from your github to local.<br>
 - Create a new branch and do edits.<br>
-- Push to orgin.<br>
+- Push to origin.<br>
 - Create Pull Request.<br><br>
 
 
